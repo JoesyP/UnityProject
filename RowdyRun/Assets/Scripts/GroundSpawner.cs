@@ -16,7 +16,7 @@ public void SpawnTile () {
     // Start is called before the first frame update
     private void Start()
     {
-        for(int i = 0; i < 15; i++){
+        for(int i = 0; i < 30; i++){
             SpawnTile();
         }
     }

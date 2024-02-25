@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.Rowdy.RowdyRun">
+
+    <!-- Camera feature -->
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <!-- Add any additional features or permissions here -->
+
+    <application>
+        <!-- Add any additional application-related configurations here -->
+    </application>
+
+</manifest>
